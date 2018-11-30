@@ -1,0 +1,8 @@
+{
+  "name": "ptwon_bot",
+  "version": "1.0.0",
+  "description": "ptwon's bitch",
+  "main": "bot.js",
+  "author": "ptwon",
+  "dependencies": {}
+ }
